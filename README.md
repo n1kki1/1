@@ -1,3 +1,4 @@
+ <img src="banner3.png" width="100%">
 <p align="center">𝚜𝚎𝚎 𝚑𝚘𝚠 𝚝𝚑𝚎 𝚋𝚛𝚊𝚒𝚗 𝚙𝚕𝚊𝚢𝚜 𝚊𝚛𝚘𝚞𝚗𝚍.</p>
 <p align="center">𝚊𝚗𝚍 𝚢𝚘𝚞 𝚏𝚊𝚕𝚕 𝚒𝚗𝚜𝚒𝚍𝚎 𝚊 𝚑𝚘𝚕𝚎 𝚢𝚘𝚞 𝚌𝚘𝚞𝚕𝚍𝚗'𝚝 𝚜𝚎𝚎</p>
 <div style="display: flex; align-items: flex-start; gap: 20px;">
@@ -35,3 +36,6 @@
 <div align="right">
 
 </div>
+<p align="center">
+  <img src="banner.png" width="100%">
+ <img src="banner2.png" width="90%">
