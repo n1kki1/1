@@ -36,6 +36,3 @@
 <div align="right">
 
 </div>
-<p align="center">
-  <img src="banner.png" width="100%">
- <img src="banner2.png" width="90%">
